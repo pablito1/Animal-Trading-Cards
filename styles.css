@@ -1,0 +1,46 @@
+/* add your CSS here */
+
+html {
+  /*font-family: 'Roboto', sans-serif;*/
+  font-family: 'Coustard', serif;
+}
+
+#myLion {
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px 0px rgba(182,185,182,0.90);
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.aboutLion {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item {
+  font-weight: bold;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.lion {
+  border: solid #b6b9b6 2px;
+  box-shadow: 10px 10px 5px 0px rgba(182,185,182,0.75);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.aboutLion {
+  border: solid #b6b9b6 2px;
+  padding: 10px;
+  margin: 0;
+}
