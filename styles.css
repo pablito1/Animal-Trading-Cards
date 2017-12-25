@@ -5,7 +5,7 @@ html {
   font-family: 'Coustard', serif;
 }
 
-#myLion {
+#my-lion {
   width: 300px;
   height: 200px;
   border-radius: 5px;
@@ -14,9 +14,13 @@ html {
   margin-bottom: 20px;
 }
 
-.aboutLion {
+.about-lion {
   padding-top: 0;
   margin-top: 0;
+  border: solid #b6b9b6 2px;
+  padding: 10px;
+  margin: 0;
+  width: 320px;
 }
 
 .list {
@@ -37,10 +41,4 @@ html {
   box-shadow: 10px 10px 5px 0px rgba(182,185,182,0.75);
   border-radius: 5px;
   padding: 10px;
-}
-
-.aboutLion {
-  border: solid #b6b9b6 2px;
-  padding: 10px;
-  margin: 0;
 }
